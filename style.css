@@ -2,7 +2,7 @@ body{
   background-color: black;
   color: white;
   height: 100vh;
-   width: 90vw;
+   width: 100vw;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .photo{
@@ -19,8 +19,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  width: 90vw;
+  height: 50vh;
+  width: 50vw;
 }
 .text{
   text-align: center;
