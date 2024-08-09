@@ -67,13 +67,9 @@ body{
 /* Mobile (min-width: 400px) */
 @media only screen and (min-width: 200px) {
   /* Styles for mobile devices */
-  body{
-    max-width: 400px;
-    height: 300px;
-  };
   .container {
 
-    width: 300px;
+    max-width: 400px;
     margin: 0 auto;
     height: 200px;
   }
@@ -87,10 +83,8 @@ body{
 #twitter,
 #github,
 #email {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 20px;
+  font-size: 24px;
+  margin: 0 auto;
 
   }
   .image {
@@ -106,13 +100,14 @@ body{
   }
   .text {
     font-size: 16px;
-    margin: 0 auto;
+    margin: 0;
   }
 #linkedin,
 #twitter,
 #github,
 #email {
     font-size: 24px;
+    margin: 0 auto;
   }
   .image {
     width: 100%;
