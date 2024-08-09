@@ -78,6 +78,7 @@ body{
   .text {
     font-size: 16px;
     align-items: center;
+    margin: 0 auto;
   }
 #linkedin,
 #twitter,
@@ -101,6 +102,7 @@ body{
   }
   .text {
     font-size: 16px;
+    margin: 0 auto;
   }
 #linkedin,
 #twitter,
