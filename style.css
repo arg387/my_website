@@ -23,6 +23,7 @@ body{
   width: 50vw;
 }
 .text{
+  align-items: center;
   text-align: center;
   margin: 20px;
   font-size: 20px;
@@ -143,6 +144,9 @@ body{
     max-width: 1200px;
   }
   .text {
+    align-items: center;
+    text-align: center;
+    margin: 20px;
     font-size: 20px;
   }
 #linkedin,
